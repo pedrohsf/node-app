@@ -4,7 +4,7 @@ node_js:
 deploy:
   provider: heroku
   api_key:
-    secure: cc4f5d1a-5d5e-4d91-877b-2ae828861a1b
-  app: still-scrubland-5274
+    secure: 51fa3df8-e264-408d-8051-1d4b25a3c82d
+  app: tranquil-chamber-1278
   on:
-    repo: danielfs/node-app
+    repo: pedrohsf/node-app
